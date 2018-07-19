@@ -1,3 +1,17 @@
+---
+layout:     post
+title:      Eigen库的使用
+subtitle:   
+date:       2018-7-19
+author:     Fee
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - 矩阵
+    - c++
+---
+
+
 ### Eigen库的使用
 ##### 1. 简介
 
